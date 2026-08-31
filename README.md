@@ -1,3 +1,5 @@
+<img width="596" height="335" alt="images (4)" src="https://github.com/user-attachments/assets/714468d2-0f7a-44d9-9898-bbe5827694dd" />
+
 This is a PowerShell script that will launch tabs of Rick Astley's Never Gonna Give You Up
 once every millisecond, causing your PC to crash, lag, or just cause general mayhem.
 To try it out run the .ps1 script, or create a shortcut for pranks and general chaos. 
