@@ -1,4 +1,4 @@
-#A-Fun-Little-PowerShell-Script
+# A-Fun-Little-PowerShell-Script
 
 <img width="596" height="335" alt="Rick Astley" src="https://github.com/user-attachments/assets/714468d2-0f7a-44d9-9898-bbe5827694dd" />
 
